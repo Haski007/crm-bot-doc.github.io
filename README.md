@@ -1,6 +1,6 @@
 # TELEGRAM BOT (Pre-Alpha v.0.71) - crm for small business
 
-https://t.me/pdemian - bot's link
+### https://t.me/pdemian - bot's link
 
 ### You need to be registered to use this bot
 ### To register you need to write your boss or author of bot https://t.me/pdemian
