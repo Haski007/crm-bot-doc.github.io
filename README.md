@@ -40,7 +40,7 @@ To add new product type you should to set:
   
 To get all products and remove one:  
   
-<img src='/assets/images/remove_product.git' width="200">   
+<img src='/assets/images/remove_product.gif' width="200">   
 
 ### Purchases
 To make purchase you should set amount of sold product:  
