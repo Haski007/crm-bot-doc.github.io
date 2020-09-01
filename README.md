@@ -23,7 +23,7 @@ You need to be registered to use this bot, so if you don't have secret password 
 ## Fuctional
 
 ### Types of product
-Add new type of proudcts:
+Add new type of products:
 ![](/assets/images/add_type.gif)
 To get all added types and remove one:
 ![](/assets/images/remove_type.gif)
@@ -75,3 +75,4 @@ Admins have much more permissions.
 * `/remove_users [user objectID]` - to remove user
 * `/alert_all [message]` - send message to all users
 * `/alert_admins [message]` - to send message only for admin
+* All admins get day statistics everyday at 23 00.
