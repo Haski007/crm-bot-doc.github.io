@@ -24,7 +24,7 @@ You need to be registered to use this bot, so if you don't have secret password 
 
 ### Types of product
 Add new type of products:  
-![](/assets/images/add_type.gif)  
+![](/assets/images/add_type.gif){:height="50%" width="50%"}
   
 To get all added types and remove one:  
 
