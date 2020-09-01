@@ -23,9 +23,9 @@ You need to be registered to use this bot, so if you don't have secret password 
 ## Fuctional
 
 ### Types of product
-Add new type of products:
+Add new type of products:  
 ![](/assets/images/add_type.gif)
-To get all added types and remove one:
+To get all added types and remove one:  
 ![](/assets/images/remove_type.gif)
 
 ### Products
@@ -33,28 +33,28 @@ To add new product type you should to set:
 * Name of new product
 * Choose type of product from the list
 * Prime cost of product
-* Price of product
+* Price of product  
 ![](/assets/images/create_product.gif)
-To get all products and remove one:
+To get all products and remove one: 
 ![](/assets/images/remove_product.gif)
 
 ### Purchases
-To make purchase you should set amount of sold product:
+To make purchase you should set amount of sold product:  
 ![](/assets/images/make_purchase.gif)
-To remove purchase you should enter object id of purchase:
+To remove purchase you should enter object id of purchase:  
 ![](/assets/images/remove_purchase.gif)
 
 ### Statistics:
 You can get:
 * history of purchases during the day
 * statistics of day (sold amount of each product, total cash, total profit)
-* statistics of any month.
+* statistics of any month. 
 ![](/assets/images/statistics.gif)
 
 ### Stock
 You can:
 * Monitoring quantity of each product at stock
-* Make new supplies
+* Make new supplies  
 ![](/assets/images/stock.gif)
 
 ### Cashbox
@@ -62,7 +62,7 @@ There is a general cashbox entinity, and to monitore your cash you can:
 * add to cashbox (with your comment)
 * get from cashbox (with your comment)
 * get list of all transactions
-![](/assets/images/stock.gif)
+
 You can also add a start day money (The money that you have in the your physical cashbox in the start of your duty)
 
 Start money will be plused to total sum of cash fo whole day and you can enter how much money you want to leave in physical cashbox at the end of day.
