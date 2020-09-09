@@ -57,13 +57,13 @@ You can get:
 * statistics of day (sold amount of each product, total cash, total profit)
 * statistics of any month.  
   
-<img src='./assets/images/statistics.gif)  
+<img src='./assets/images/statistics.gif')  
  
 ### Stock
 You can:
 * Monitoring quantity of each product at stock
 * Make new supplies  
-<img src='./assets/images/stock.gif)  
+<img src='./assets/images/stock.gif')  
 
 ### Cashbox
 There is a general cashbox entinity, and to monitore your cash you can:
