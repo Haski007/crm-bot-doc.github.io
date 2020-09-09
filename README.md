@@ -28,7 +28,7 @@ Add new type of products:
   
 To get all added types and remove one:  
 
-<img src='/assets/images/remove_type.gif' width="200">   
+<img src='./assets/images/remove_type.gif' width="200">   
 
 ### Products
 To add new product type you should to set:
@@ -36,20 +36,20 @@ To add new product type you should to set:
 * Choose type of product from the list
 * Prime cost of product
 * Price of product  
-<img src='/assets/images/create_product.gif' width="200">   
+<img src='./assets/images/create_product.gif' width="200">   
   
 To get all products and remove one:  
   
-<img src='/assets/images/remove_product.gif' width="200">   
+<img src='./assets/images/remove_product.gif' width="200">   
 
 ### Purchases
 To make purchase you should set amount of sold product:  
   
-<img src='/assets/images/make_purchase.gif' width="200">   
+<img src='./assets/images/make_purchase.gif' width="200">   
 
 To remove purchase you should enter object id of purchase:  
   
-<img src='/assets/images/remove_purchase.gif' width="200">   
+<img src='./assets/images/remove_purchase.gif' width="200">   
 
 ### Statistics:
 You can get:
@@ -57,13 +57,13 @@ You can get:
 * statistics of day (sold amount of each product, total cash, total profit)
 * statistics of any month.  
   
-<img src='/assets/images/statistics.gif)  
+<img src='./assets/images/statistics.gif)  
  
 ### Stock
 You can:
 * Monitoring quantity of each product at stock
 * Make new supplies  
-<img src='/assets/images/stock.gif)  
+<img src='./assets/images/stock.gif)  
 
 ### Cashbox
 There is a general cashbox entinity, and to monitore your cash you can:
