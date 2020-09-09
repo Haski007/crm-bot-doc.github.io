@@ -24,7 +24,7 @@ You need to be registered to use this bot, so if you don't have secret password 
 
 ### Types of product
 Add new type of products:  
-<img src='https://github.com/Haski007/crm-bot-doc.github.io/assets/images/add_type.gif' width="200">
+<img src='./assets/images/add_type.gif' width="200">
   
 To get all added types and remove one:  
 
